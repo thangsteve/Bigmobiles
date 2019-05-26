@@ -1,0 +1,12 @@
+SMAP
+logreg_jsp.java
+JSP
+*S JSP
+*F
++ 0 logreg.jsp
+logreg.jsp
+*L
+5,50:44
+55,3:94,3
+58,42:103
+*E
